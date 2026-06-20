@@ -13,10 +13,10 @@ This repository contains all the tasks completed during the **CodeAlpha Internsh
 ### ✅ Task 2
 - 💻 **HTML File:** `Task 2.html`
 - 🎨 **Figma Design:** [View Task 2 on Figma](https://www.figma.com/design/hxr6VcNeadg5X0iVowCjpj/Task-2?t=k3EJqcS3hoE1VotJ-1)
-- 🔗 **Prototype:** [View Prototype on Figma](https://www.figma.com/design/hxr6VcNeadg5X0iVowCjpj/Task-2?t=k3EJqcS3hoE1VotJ-1)
 
 ### ✅ Task 3
 - 💻 **HTML File:** `Task 3.html`
+- 🔗 **Prototype:** [View Prototype on Figma](https://www.figma.com/design/hxr6VcNeadg5X0iVowCjpj/Task-2?t=k3EJqcS3hoE1VotJ-1)
 
 ---
 
